@@ -2,9 +2,7 @@
 <h3>[DB 연결 구도]</h3>
 <img width="475" alt="image" src="https://github.com/Lim-min-Ah/java_chatting/assets/87717513/6d6745d8-feee-41e5-a3c8-d98e4a71a966">
 <br>
-<pre>
   mariaDB를 통합적으로 관리해주는 HeidiSQL를 사용해 데이터베이스를 관리한다.
-</pre>
 <br>
 
 <h3>[Table 정보]</h3>
@@ -19,9 +17,8 @@ rooms : 채팅 목록 테이블
 
 <h3>[진행 구성도]</h3>
 <img width="470" alt="image" src="https://github.com/Lim-min-Ah/java_chatting/assets/87717513/592c57c7-5f1f-4f57-a4b0-62989ddb7aed">
-```
  컨트롤러를 통해 사용자와 직접적으로 상호작용하여 사용자가 Button을 클릭할 시에 서비스를 통해 구현한 기능을 컨트롤러에 할당하여 이에 맞는 이벤트를 컨트롤러에서 수행할 수 있도록 한다.
-```
+
 <br><br>
 <hr>
 자바 채팅 프로젝트 
